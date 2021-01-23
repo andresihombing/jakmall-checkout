@@ -1,6 +1,6 @@
 # jakmall-checkout
 
-> A Vue.js project
+> Jakmall-checkout adalah sebuah simple web aplication untuk melakukan checkout terhadap barang-barang yang telah di beli. Pada simple web aplication ini belum sepenuhnya selesai karena ada beberapa pengecekan yang belum sesuai. Pada pembuatan project ini, saya telah belajar bahwa setiap project itu akan banyak sekali kasus-kasus yang tidak terpikirkan sebelumnya dan bagaimana kita dapat menyelesaikan sebuah masalah dengan baik.
 
 ## Build Setup
 
